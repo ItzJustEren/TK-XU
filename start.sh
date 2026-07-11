@@ -1,4 +1,4 @@
-Enter#!/bin/bash
+#!/bin/bash
 set -e
 
 echo "🚀 Starting TK-XU panel + nginx reverse proxy..."
